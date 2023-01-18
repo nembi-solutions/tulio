@@ -1,66 +1,66 @@
 .container{
-   display:flex;
-   justify-content: center;
-}
-
-
-.cartao{
-    width: 400px;
-    height: 800px;
-    background-color: black;
-    border-radius: 30px;
-    margin-top: 30px;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
-}
-
-.imagem{
+    display:flex;
+    justify-content: center;
+ }
+ 
+ 
+ .cartao{
+     width: 400px;
+     height: 800px;
+     background-color: black;
+     border-radius: 30px;
+     margin-top: 30px;
+     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+ }
+ 
+ .imagem{
+     display: flex;
+     justify-content: center;
+ }
+ 
+ .nembi{
+     margin-top: 10px;
+     height: 80px;
+ }
+ 
+ .perfil{
+     display: flex;
+     justify-content: center;
+ }
+ 
+ .iden{
+     width: 170px;
+     height: 170px;
+     border-radius: 50%;
+     margin-top: 30px;
+ }
+ 
+ .name{
+     color: white;
+     text-align: center;
+     font-size: 35px;
+     font-family: 'Raleway', sans-serif;
+     font-weight: 500;
+     margin-top: 15px;
+ }
+ .contato{
+     color: white;
+     text-align: center;
+     font-family: 'Open Sans', sans-serif;
+     font-size: 25px;
+     font-weight:lighter
+ }
+ .qrcode{
     display: flex;
     justify-content: center;
-}
-
-.nembi{
-    margin-top: 10px;
-    height: 80px;
-}
-
-.perfil{
-    display: flex;
-    justify-content: center;
-}
-
-.iden{
-    width: 170px;
-    height: 170px;
-    border-radius: 50%;
-    margin-top: 30px;
-}
-
-.name{
-    color: white;
-    text-align: center;
-    font-size: 35px;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 500;
-    margin-top: 15px;
-}
-.contato{
-    color: white;
-    text-align: center;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 25px;
-    font-weight:lighter
-}
-.qrcode{
-   display: flex;
-   justify-content: center;
-}
-.imgqr{
-    width: 250px;
-    height: 250px;
-    margin-top: 20px;
-    border-radius: 10px;
-}
-.linha{
-    width: 150px;
-    margin-top: 20px;
-}
+ }
+ .imgqr{
+     width: 250px;
+     height: 250px;
+     margin-top: 20px;
+     border-radius: 10px;
+ }
+ .linha{
+     width: 150px;
+     margin-top: 20px;
+ }
